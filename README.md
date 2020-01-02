@@ -1,4 +1,4 @@
-# WeCode
+# WeCode [![Subscribe](https://img.shields.io/badge/-Subscribe-%20%23c4302b)](https://alemayhu.com/subscribe)
 
 This repository is for my YouTube channel [WeCode][wc] projects.
 
