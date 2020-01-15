@@ -5,6 +5,7 @@ This repository is for my YouTube channel [WeCode][wc] projects.
 ## Stream Schedule 2020
 
 - [ ] Learn [Rust][r] by completing all of the [Rustlings][rs] exercises
+- [ ] Build a few Imba v2 apps
 - [ ] Start building a few web apps in Rust
 - [ ] Write my own web framework :wink:
 
