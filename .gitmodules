@@ -4,3 +4,6 @@
 [submodule "sticky-notes"]
 	path = sticky-notes
 	url = https://github.com/scanf/sticky-notes
+[submodule "jd"]
+	path = jd
+	url = https://github.com/scanf/jd
